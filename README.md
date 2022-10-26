@@ -11,6 +11,7 @@
 - [ ] New and existing unit tests pass locally with my changes
 
 ## Screenshots 📷
+<!-- optional -->
 
 |         | before | after |
 | ------- | ------ | ----- |
